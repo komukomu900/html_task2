@@ -25,6 +25,7 @@ header {
   background-color: black;
 }
 header ul {
+  margin-top: auto;
 }
 header ul a {
   text-decoration: none;
